@@ -4,6 +4,14 @@ import numpy.random as random
 # 设置随机数种子
 print(random.seed(42))
 
+u1 =  2.0 * np.sqrt(6.0 / (10 + 2))
+print(u1)
+print(np.random.rand(2,3))
+w1 = (np.random.rand(2, 3) - 0.5) * u1
+
+print(w1)
+
+
 # 产生一个1x3，[0,1)之间的浮点型随机数
 # array([[ 0.37454012,  0.95071431,  0.73199394]])
 # 后面的例子就不在注释中给出具体结果了
