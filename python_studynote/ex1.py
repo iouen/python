@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-.
-print "ÄãºÃ£¡"#×¢ÊÍ
 print "Hello World!"
 print "Hello Again"
 print "I like typing this ."
@@ -7,3 +6,4 @@ print "this is fun."
 print 'Yay!Printing.'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
+print "ä¸­å«æµ‹è¯•"
